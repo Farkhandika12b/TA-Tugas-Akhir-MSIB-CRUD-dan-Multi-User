@@ -14,5 +14,5 @@ Merancang Website CRUD sebagai Project Akhir atau TUgas Akhir dari Progrma MSIB 
   
 | Username      | Passowrd      | 
 | ------------- | ------------- |
-| `dessya`      | `dessya12`    |
+| `farkhan`      | `farkhan21`    |
 

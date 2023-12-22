@@ -58,7 +58,7 @@
     <div class="row my-2">
         <div class="card-group">
         <div class="card">
-            <img src="images/INISIAL.jpg" class="card-img-top" alt="...">
+            <img src="images/MLBB.jpg" class="card-img-top" alt="...">
             <div class="card-body">
             <h5 class="card-title">Squad CED (Corona Evil) berhasil memenangkan turnamen Mobile Legend antar Prodi di Polinema</h5>
             <p class="card-text">Squad CED berhasil memenangkan piala turnament MLBB yang diselenggarakan di Polinema pada 10 November 2023. <a href="#" class="">selengkapnya</a> </p>
